@@ -1,5 +1,7 @@
 The Simple Attendance System with Payroll (SASwP) is a web-based application designed primarily for managing employee attendance and payroll tasks efficiently. It incorporates a straightforward user interface supported by SCSS (Syntactically Awesome Style Sheets), PHP (Hypertext Preprocessor), and JavaScript to deliver a responsive and interactive experience.
 
+Unlock the full project source code and database here: https://buymeacoffee.com/nwtnraj
+
 **Key Features:**
 
 1. **Attendance Management:** The system allows employees to log their attendance, either manually or through integrated devices like biometric scanners or RFID cards. Managers can view attendance records in real-time and generate reports to track employee attendance patterns.
